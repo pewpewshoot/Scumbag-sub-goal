@@ -12,7 +12,7 @@ Go to shortcut.html and set your url to look like the following, replace sus2280
 ![Showcase.](/showcases/shortcut.png)
 
 ## OBS Studio
-Create a new broswer source and paste in the path to your shortcut.html file in this format 
+Create a new browser source and paste in the path to your shortcut.html file in this format 
 > file:///C:/Users/Admin/Downloads/scum/shortcut.html
 - DO NOT SELECT LOCAL FILE
 
