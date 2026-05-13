@@ -9,7 +9,7 @@ I did not make the code, I am simply providing a version to host locally on your
 Go to shortcut.html and set your url to look like the following 
 > file:///C:/Users/Admin/Downloads/scum/index.html?username=sus228000&followMode
 
-![Showcase.](/showcases/shotcut.png)
+![Showcase.](/showcases/shortcut.png)
 
 ## OBS Studio
 Create a new broswer source and paste in the path to your shortcut.html file in this format 
