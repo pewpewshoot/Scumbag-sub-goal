@@ -1,4 +1,5 @@
 # INFO
+## Please credit me if used 
 Self hosted version for [nutty](https://www.twitch.tv/nutty)'s Scumbag Sub Goal Widget.
 I did not make the code, I am simply providing a version to host locally on your machine.
 
