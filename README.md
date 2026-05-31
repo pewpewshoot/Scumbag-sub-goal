@@ -7,7 +7,7 @@ I did not make the code, I am simply providing a version to host locally on your
 
 
 ## How to setup
-Go to shortcut.html and set your url to look like the following, replace sus228000 with your username.
+Go to shortcut.html and set your url to look like the following, replace the index.html location with your own and sus228000 with your username.
 > file:///C:/Users/Admin/Downloads/scum/index.html?username=sus228000&followMode
 
 ![Showcase.](/showcases/shortcut.png)
