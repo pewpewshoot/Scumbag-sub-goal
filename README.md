@@ -20,4 +20,4 @@ Create a new browser source and paste in the path to your shortcut.html file in 
 ![Showcase.](/showcases/obs.png)
 
 ## Customization
-Go to script.js and replace sub goal or follow goal with any tex of your liking
+Go to script.js and replace sub goal or follow goal with any text of your liking
